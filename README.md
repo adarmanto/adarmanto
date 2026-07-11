@@ -1,74 +1,49 @@
 ```
-                                                              .::;X&&@@&@&&%x;;:::'.
-                                                            +x%&@@@&@&&@&@&@@@@@@@&$+x=.
-                                                          +%@@@&@&&@&&@&@&@&&&@&&&&@@@@%%x'
-                                                        ;x@@@&@@@@@@&@&@&@&@&@&@@@&@&&&@@&@X'
-                                                      +X@@%xxXX$%%&%&&&@&@@&&@&@@@@@@&@@@&&@&+.
-                                                     X@@X;:'::;;=+++==x+=+++;=+X$%%&&&@&@&@&@@x
-                                                    ;&$=''':''::::::::''...... .'':;:=$&&&@&&@%:
-                                                   .%%:'::'':'::':':':''''....''''.''.:X@&&@&&@=
-                                                   X&+::::::':::::::::::;:'''''''''''''x&&@@&@$:
-                                                   +$;::'.''''';:;:::;;:;:::::::::::;:;X%&&@&&=
-                                                   ;+:;=;;:''''''''':''''...'.'':;;;:=x$%&&&@X.
-                                                   ;;;X$%%%%$$+=;;:::;;=+xxx+++;'':;+++X&&&&@x
-                                                 .=x=+X$%%&%&&&%$XxxX$%&&@@@&&&%X=':;==+%&&@%:
-                                                 +$X+=+X%$$X%%&%&%%%&&&&&&&%&%%%&%$x;;:;x%%&+
-                                                 ::';;:;;=+xX+x+$x=X%%$$%%%%$$%%%%%%x;:=X$X++++;
-                                                 ::''':::+=+;:;:'':=xxxxxxxxXx+=+=;;::';+$%$XxX;
-                                                 .::::::::::::''''.:=xXx==++;;;=;;=;;;;;;+%%%X:
-                                                  '=+;;::::::;=;;;==:;xXX+;=;==xxXXXXX+xx++x+.
-                                                   ';+;;::::=X$XX%%&%XxXx=+x+$X$$$%%XxXX=+;.
-                                                    '=;;;:'':':;;;=++x+=;=xX$$$$$$$$x=;;'.
-                                                     ';;==XXxxxXxX$$$X$$$X$$$$$$$$$$x.
-                                                      :==+XxxXXX$%%%%&%&&&%$$$$$%$$$=
-                                                      .;+==+xxX$%%%$%%$%%%%%%%$$$$$x
-                                                       .+++==+xxX%%%%%%%%%%%%%%%%%$=
-                                                        ;=+xXxX$%%%%%%%%%%%&&&&&%$x;.
-                                                        '=X%%&@&@@@@&@&&&&&@&&&%$Xx=;.
-                                                        .:x%%&@@$XX$%@@@&@%&&%%$XXXx=:'.
-                                                         '+XXx=:'. .:;X%%&&%%$$XXX++=;;''...
-                                                        ';;;::;x$%='..'':=$%$$X$Xxx+==:;;+$%%%$=''.
-     ':==;    ..'''.                                 .=+x=;:=+xXXX$;:::'..':=XXXX+++xX$&&@@@@&&@@@$++=:.
-     +XX$=  .:++;:.                             ...;X%@@x:::::'''.':'''.... .:+XXFULL-STACx=&&&%&+x@@@&%X$X:..
-    'x%%+:':=+=;''.';:''.                    ;;;;$@&@@x%%;':+Xx===;::''''::;:'=@&&&@x'@&&&@=:@@=;K NODEJS @X$&%+;:'
-    .$&$+x$%$;...':=;:.                 =xx+$+$@.LARAVEL N8:'''''''''''..':++;;@&&&@x'@%&&@+:@@;;N REACT AI.x@&@@@&Xx=.
-     .;=+$%$x===+=;'            '':x&XX&=X@= AUTOMATIO+%&@@==+;::::''....':;;+;+@&$;N AMAZON SP=-API API ;X&X&&&;$$&@&%%x'
-       '=$X=+=x$+ ....       .:%@&@@X;$@&&%@.X@@ X@&@@+%@=%$=:'::::'';;;;::::;=;INTEGRATION FULL-;X@&&&@+X@@x;%&&@+$&@&&&@=
-       .==;+x$$X;   '''.:=+X$%&++@+STACK NODE;$@$%@@;$x%&x&='x$%%&%%%+++xX+=;;;;;$&&X=JS LARAVEL =N8N REACT=$$$&&@=%@&@&&%@=
-       .+';+xx+;:''=xx++$@&@@%=+&&%%@;+@@: AI AUTOMAT=&&&@&%X+&@@&&@X$;=x++++==+;=%@&X$$=ION AMAZ$%+x@&&@+x&.ON SP-API&&&&%@'
-        ;=:;=:':;+++=::+%&&&@X;X&&@&@:=@@' API INT+%@+EGRATION F;&@&+&$;=++++==+=;;XULL-STACK NODEJS LAR+AVEL N8N R X@&@@&%&%
-        .+=;;+x+X%%=:=+X&&&%$@==@@;=@$&@=+$;EACT AI AU:X&&&&&=&&X&$&;&&$:$&&%xx=:;::;XTOMATION =;@@&&X:x%%&@@@;$$&;x&&@$%&&%@.
-         '+==+=;++AMAZON SP-API API INTEGR+X@x:$@+%@;%@;%@&&&+&&@&;&&&&&==@&&&%+=:':':+%@X+ATION FULL-STACK NODE+$&@&&x:%&&&&+
-          +++=;++:;$JS LARAVEL ;$&&@+XX:N8N REACT :$@&&@@;%&&x&&;%@&;AI AUTOMATI;%;;=++=X@@&&@=:@&XX&@+XX%=;%&&@=$&;%@+&@&&&&&
-          :++x+=;:::x@@&&@+;@&XX@@+x&X;X&&%@=+@=ON AMAZON  %&@@&%:&&$X&%;@&$'&%%%&$+=x+==+SP-API API INTEG'X@&&&$&=XX&=$@&@&&&.
-          'x+XX++;==$$+RATION FULL-STACK NODEx:%@x;%&&@=&@+%&&=&&@&@&=&&&=@%X$%$=%$x+=+++==%@X;JS LARAVEL N8N REAC+%+%@&&&@&&@'
-          .x&%%&&&+;@%==@&$@X=&x;T AI AUTO;X&@$%@;+&&&&@'%@&:MATION AMAZ:$&&&@@X+$Xxx+==++=;X@%$&@+=$%&$$@=+@@=x@@X&=X@;X&&&&&x
-          .X@&&@%==&&@@&%;+@$;x&&@$:xX:ON SP-API :%@&@&x:%&&@&x;&&+=API INTEGR==&+x+xx+=++=:;X&@&&&+;%&&@&&=;%@+=%@&&==&;%@@&&&
-          =%$$$$%x@%@$=@$X@&$;x&@x;%@x%+x@=ATION FULL;%x&&&&;%+@@&+=&&%;-STACK NO$==x+x+=++=;:XDEJS LARA+X&@X$@+=&&&@@x:&&&@@&@.
-         .+==x+X@@X=VEL N8N REAxCT AI AUT:=@&&&@'X@&X$@@:%&&.@@&X&;$@:OMATION AM;&;Xx++x+=+++=;X&@+AZON SP-API= API INTEG:&@&@&:
-          '=+==X$&&@Xx%:RATION FUL:;@&&@x:%x$@&@+$&@=&+%@&&&@=&&=&&&=@@&=@%=@&&@@%;xx==+x+==+++;+L-STACK NO.+@&@@+;&+%&&&&&&&&@X
-          '+++=+&&%%@$:%&%&&++%%++DEJS LARAV;EL N8N REA:X&&&&$:&@&&&x%:&$%;@&&&X;@&+=++=x++x+=+=;;X&&&&@+x@X$&@;X@$:&%@&%&@&@&@&
-          .==+=+%@$=@&%$X=@x+CT AI AUT+X$$&X&=$@&&&@;%X&;OMATION AMA ZON SP-API;@&@%;+x+=+x+xx+=+=;=X&&&%%@=$@@ x@@&&;=@;%&&@&&@
-          '+;++X%&&@&$; API INTExXGRATION FU:LL-STACK N;&&&&@+;&&&&&x&=&+%;@&&@%=@$=$====+x+xxxx++=;:+%&&&&@+X@x%&&=$@x:&&&@&@&&:
-          ;;++=x@&X;@$X@X+@x;ODEJS LAR==&@%&%:$@&@&@;X@%:AVEL N8N RE;ACT AI AUT:%&%X%=+==xxxXXxxXx+++=;=X&&&$%@=$&@'$&@$&:%&@&&@x
-         .+;==++%&&&@+'OMATION AMAZON SP-A.+@@&&@+%&@ $@@&&&=%@@&=&=&&&=&&@&+@&&@@x.@x;===+xxXXXXXxX++=;==+$@@@&@&&@@@&@@&@&&&@&%
-         '+=+=++X&&&&&==%X&&@x+@@+PI API INTE;GRATION FU:%&&&&&:&X&&&&%:@&%:$&&@$;&+=&====+xxXXXX$XXXXx++=;+xX$&&%&&&&@&@&@&&&&@@:
-         =+=++=x%&&&@x'LL-STACK NODEJS =x@'LARAVEL N8.$&&&&&:&&&&X&:&&%:N REACT AI '@&%+==+xxX$XX$$$$$XXxx++++=x%%$$$$%&@@@@@@@%$x
-         ++=+==+X&&&@%;AUTOMATION AMAZON SP-A+$&@+%&@x%@=%&&@&&=&=&@&&%+&&%=+&&&$+%;+@%x;=+xXXXXXX$X$$$X$XXXXXx+x%%$XX$x=====;:.
-        '++++==X&&&&&x=X%@&&@+;@@=:@@&@=x%;PI API INT;%@$&&&:%@X$@&:&&& EGRATION FU=$&&%+=xxXxXX$$XXX$$$$$$$$XXXxX%%XXX.
-        ++=+==xX@&&@$:X$=LL-STACK NODEJS +X@+%&@=$&@=%@+&&&&@&+@;LARAVEL N==&&&$x%:X@&&@%XxxXXX$$$$XX$$$$$$$$$$$$$$$$$:
-        ==+==xxX&&&%@X.@@&&@%;+@$:x@&&@+x@=8N REACT A;&x%&&&;@x%@&&;&&+;I AUTOMATIO.@&&&@&XXXXXX$XX$$$$$$$$$$$$%%%%$$$.
-        '++=+xx&&&@$;XX=N AMAZON +=@&@@%=X&x&&&;$&&=SP-API API :INTEGRATIO=&&&%X%;X&&&&@&@&%X$$X$$$$$X$$%$$$$$%$%%%%$;
-        .x==xx%&&&@%;x@&&&@='@@;;N FULL-STACK NODEJ+%@=%&&=%@=&@&=&@& @@%+@&&&%+%;x&&&&@@&@@&%$$$$$XX$$$$$$$$$$$X$$$X.
-         'x=xx@&&@$:$$;S LARAVE=:%&@@X%==%&%&@=$&@'+L N8N REAC.T AI AUTOM;&&@&@%:$%&&&&@&@&&@&&&%$$$XX$$$$$$$$$XXx=+:
-          +=x$&&&&@X'ATION AMA+' +ZON SP-AP=X@x%&@=%@+%&&&=&+&=&+@&&;@%;I API INTE=@&&&@@@&@&@@&&%%$$$$$%%%%$$$Xxx+:
-          '==%&&&&$:X$+%x@&&&%:  +@XX&&+X@&&&@.x@&=GRATION FUL=L-STACK NO;@&+&&$=@&&&&@&@@&@@&@@@@&&%%%%%%%%&&&%%+:
-          .+=+@&&&@x=$$@%$x=&+. .DEJS LARAV;X%%&&@'$$&&&&&:x@@.X@&&&:@%:EL N8N REA;@&%$@&@@&@&&@@&@@@%%%&@@@&$$;.
-           .XCT AI AU.@&X+@&;   +TOMATION AMA.X@&=%@=%&&&&@=&=@=ZON SP-A+@%=@&%+@&@&@$+@&@@&@@&&@&&@&@&&x+++;
-            '$&&&XX$:%@@@@X'   ;PI API INTEGRA:TION FULL-;%@&x&&;&%&&&&% @@&:@X+@$=&X+@&&&@@@@@@@@@@&@@+
-              =xX=+$@%XX=     'X@@X$$:X$$&@@+.X@XX&@@&@;x&@&&@&;+&;@&@@X&&x@@&=+@&;:&+@@X;x$&$&Xx$@@@@@;
-                :+: =.        +@x;.+$$@x$@+$@'X@xx&@@&&@ &&@&=@@x@@;&@; @&x&=&=@;=+'+x&@@%++'=x.+$@@xx@+
-                             =%X&;;&@x+&=+%:X'X:X&:' ;@@. ;X@ $...%'=% %'%::X;'+%'=X$@%%Xx@%=;XXx&x:==...
-                             ;X:;= ;x&+ $x+'        =xx@.=+=+ + =  x+ .@    .xxxx+  '$X'&+$X=$%+%+:x' :+.
-                              ':     '' ';+X'  X:   ;  : ; @XX= ;      :              '.' ;%. +;'';&%$+=.
+                                                .:++%&&&@&%x+++;..
+                                               =%@@@@&&&&&@@@@@&&%x=.
+                                            .;$@&&&&&@@@@@@@@@@@@@@@&+.
+                                           .&&x;:;=+xxxx+x++x$%%&@&&@@X
+                                           XX:'''':'':'...  ..'''+&@&&@;
+                                          ;&::::'::::::;::'::'''''$&&&&:
+                                          ;x:;''''':::::'.''':;;;+%&&@+
+                                          :;+$$$$x=;::;=+x+++:';=x%&&@'
+                                         ;X+x$%%%&&%$%&&@@@&&%x=;;x&&x
+                                         ;:;:;+xx+xX+%%$$%%$$$%$='+$X++:
+                                         ':'::;;::'..;xx+++==;;:::;x%%+'
+                                          ;=;:::;+==+++Xx===+xXXXxx++=
+                                           ;=::':=++X$x+=+X$$$%$x+;:.
+                                            :=+xxxxxX$$$$$$$$$$$;
+                                            .=++xx$%%%%%&&%$$$$X.
+                                             :+==+X$%%%%%%%%%%%=
+                                              =$%&@@@@@&&&&&&%X='
+                                              'X%%$==x%&@&%%$XXx;'.
+                                              :==;+x;.';=X%$XXx==;;+XXx;:.
+            '=x'  ::'.                     :XX;:;;=++:''..'=XXxx$%&@%@@@&X$x=:'.
+            x&x::==:'':'.             ';:x%@%&='==::::'''::'x&&@+FULL-STACK @@@+$x;:.
+            =X+$%+'';;'.       .;;;=NODEJS &x%@x;;::''...'==+LARAVEL x&;N8N REACT $&%$=;
+             .=$++XX'.     .:AI %X@%@$=&x$@&X%$$=;;;;::;;::;;XAUTOMATION AMAZON +%%X$@@@$'
+              =:+Xx= '=;;XSP-API API INTEGRATION=X@@&%x=xx===;X@X$X&&&%$xFULL-STACK $&&&&%.
+              :;;;:;++;;xNODEJS @=$$;LARAVEL N8N REACT +=xx===;xAI AUTOMATION AMAZON=%@@&&x
+               ===++$%+SP-API API %$$xINTEGRATION &&X$&&=%@%X;:':XFULL-STACK NODEJS %@$X&&%.
+               :++==:xLARAVEL N8N +REACT AI AUTOMATION AMAZONxx;==xSP-API API x+&@X%x&x&&&@;
+               .+xx=;:INTEGRATION X%&&xx%X$&%X%+FULL-STACK X&X%x++==$@xNODEJS LARAVEL %&@&@=
+                x&&&X+N8N REACT AI &%$@$&;AUTOMATION AMAZON $xXxx+++;XSP-API &$xAPI %x%x%&&$
+               '$INTEGRATION=FULL-STACK NODEJS &X$X@=LARAVEL %x+xx++=:xN8N REACT $=@@&+x%@&&.
+               :+++AI AUTOMATION @&X;AMAZON SP-API API %%&X&&$x+++x+=+=xINTEGRATION %$&%X&&@:
+                =+=$FULL-STACK NODEJS LARAVEL N8N REACT AI &%X&x=+x++++==AUTOMATION +$&&&&&@x
+                =+=$AMAZON SP-API API INTEGRATION FULL-STACK X@$++=+xxx+=;+NODEJS LARAVEL&&@$
+               '=++N8N REACT AI AUTOMATION AMAZON SP-API API X&xX==+xxXXx+==+$&&%%$@=&%$X&&&%'
+               :==+X&&&=INTEGRATION FULL-STACK NODEJS LARAVEL $+$+==xxXXXXXx===X&&&&@&@@&&&&@=
+              .=++=X&&&=N8N REACT AI AUTOMATION AMAZON SP-API $=%$==xxXX$$$$Xx+=+x%%$$%@@@@&$x
+              .+++=X&&&+API INTEGRATION FULL-STACK NODEJS x&&%X+$&x=xXXXXX$$$$XXXxx%$XX:''''
+              ;+==+%&&$+LARAVEL N8N REACT AI AUTOMATION AMAZON +@&&XxXXX$XX$$$$$$$$$$$;
+              :+=+x%&%$+SP-API API INTEGRATION FULL-STACK NODEJS &@&$XX$$$$$$$$$$$%%%X.
+              .++x%&&$+$&&%=LARAVEL N8N REACT AI X&$%&=@XX@&$X+&&&@@@&%$$$XX$$$$$$$$$;
+               ;+XAUTOMATION ;:AMAZON SP-API API INTEGRATION $$%&&@@@@@&%$$$$$$$$XXx;.
+               .=xFULL-STACK  'NODEJS &+LARAVEL N8N REACT AI $$%&&@@@@@@@&&%%&&&&%X;.
+                :XAUTOMATION. AMAZON SP-API API INTEGRATION %%$&%X@@@@&@@@@&&$$X;:
+                 =%&x$X&&$+. :@$%$X&&@++FULL-STACK X$@@&+&$%x&$$X%&$&@@@&@@@X
+                  .;=;x:'   .&$=XX%$%&+$%X@&@+X@&%$$$$@;@$%$xX+:X&&x+=x;X@%&x
+                            xXx'%%+xX;;:;+':%$.xX:;'+=;==::++X:=$&$$&;xX%=:':.
+                            ''. .; ;+=  '  :';:=x;'' ' ;   .''. .::'X;+=;;X;=.
 ```
